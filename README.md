@@ -5,7 +5,7 @@
 
 一个基于 Cloudflare Workers 的交互式粒子文字效果项目。通过简单的部署，即可创建炫酷的粒子动画效果，支持多设备自适应和用户交互。
 
-[在线演示](your-worker-url-here) | [English](./README_EN.md)
+[在线演示](https://pbs.pyhjs.ggff.net/) | 
 
 ## ✨ 特性
 
@@ -17,9 +17,8 @@
 - 📐 自适应屏幕尺寸
 - 🚀 基于 Cloudflare Workers，部署简单
 
-## 🖥 预览
 
-![预览图](preview.gif)
+
 
 ## 🛠️ 技术栈
 
@@ -78,19 +77,14 @@
 
 本项目基于 MIT 协议开源，详见 [LICENSE](LICENSE) 文件。
 
-## 👨‍💻 作者
 
-Your Name - [@your-twitter](https://twitter.com/your-twitter) - email@example.com
 
 ## 🙏 致谢
 
 - 感谢 Cloudflare Workers 提供的服务支持
 - 感谢所有贡献者的付出
 
-## 📚 相关项目
 
-- [项目A](https://github.com/username/project-a)
-- [项目B](https://github.com/username/project-b)
 
 ---
 
